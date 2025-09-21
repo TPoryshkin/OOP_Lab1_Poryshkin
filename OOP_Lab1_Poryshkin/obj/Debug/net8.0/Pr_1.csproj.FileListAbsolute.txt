@@ -1,0 +1,14 @@
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\Pr_1\bin\Debug\net8.0\Pr_1.exe
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\Pr_1\bin\Debug\net8.0\Pr_1.deps.json
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\Pr_1\bin\Debug\net8.0\Pr_1.runtimeconfig.json
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\Pr_1\bin\Debug\net8.0\Pr_1.dll
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\Pr_1\bin\Debug\net8.0\Pr_1.pdb
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\Pr_1\obj\Debug\net8.0\Pr_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\Pr_1\obj\Debug\net8.0\Pr_1.AssemblyInfoInputs.cache
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\Pr_1\obj\Debug\net8.0\Pr_1.AssemblyInfo.cs
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\Pr_1\obj\Debug\net8.0\Pr_1.csproj.CoreCompileInputs.cache
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\Pr_1\obj\Debug\net8.0\Pr_1.dll
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\Pr_1\obj\Debug\net8.0\refint\Pr_1.dll
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\Pr_1\obj\Debug\net8.0\Pr_1.pdb
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\Pr_1\obj\Debug\net8.0\Pr_1.genruntimeconfig.cache
+C:\QWERTYUIOPASDFGHJKLZXCVBNM\УЧЕБА\ООП\Pr_1\obj\Debug\net8.0\ref\Pr_1.dll
